@@ -1,5 +1,4 @@
 ### Hello My Name is eunsu28 (Ay_28)
-### Middle Schooler
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=EUNSU28&fontSize=90)
 
